@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FSFM\FSFM.csproj">
+    <ProjectReference Include="..\FSFM\FSFMWebView.csproj">
       <Project>{AF8B9285-9481-46C0-A655-5A9AAD3D944E}</Project>
-      <Name>FSFM</Name>
+      <Name>FSFMWebView</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

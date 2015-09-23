@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFM", "FSFM\FSFM.csproj", "{AF8B9285-9481-46C0-A655-5A9AAD3D944E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFMWebView", "FSFM\FSFMWebView.csproj", "{AF8B9285-9481-46C0-A655-5A9AAD3D944E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFM.Tests", "FSFM.Tests\FSFM.Tests.csproj", "{8B172876-9E74-4175-AAD5-B37F41F8A9B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFMWebView.Tests", "FSFM.Tests\FSFMWebView.Tests.csproj", "{8B172876-9E74-4175-AAD5-B37F41F8A9B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaLeguasFuzzy", "PapaLeguasFuzzy\PapaLeguasFuzzy.csproj", "{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}"
 EndProject
