@@ -9,14 +9,23 @@ namespace PapaLeguasFuzzy.Terms
 {
     public class Gaussian : Term
     {
-        public Gaussian(double sd, double mean, string name, Variable Variable)
+        public enum GaussianType
+        {
+            Normal,
+            Left,
+            Right
+        }
+        public Gaussian(double sd, double mean, string name, Variable Variable,GaussianType type = GaussianType.Normal)
             : base(name, Variable)
         {
             this.Sd = sd;
             this.Mean = mean;
+            this.Type = type;
         }
+
         public double Mean { get; private set; }
         public double Sd { get; private set; }
+        public GaussianType Type { get; private set; }
 
         protected override Expression GenerateAssign(ParameterExpression nameVariableX, ParameterExpression nameVariableY)
         {
@@ -30,7 +39,12 @@ namespace PapaLeguasFuzzy.Terms
             var expressionExp = Expression.Divide(dividend, divisor);
 
             var call = MathMethods.CreateExp(expressionExp);
-            return Expression.Assign(nameVariableY, call);
+            if (this.Type == GaussianType.Normal)
+                return Expression.Assign(nameVariableY, call);
+            else if (this.Type == GaussianType.Left)
+                return Expression.Condition(Expression.LessThanOrEqual(nameVariableX, Expression.Constant(this.Mean)), Expression.Constant(1.0d), call);
+            else
+                return Expression.Condition(Expression.GreaterThanOrEqual(nameVariableX, Expression.Constant(this.Mean)), Expression.Constant(1.0d), call);
         }
     }
 }
