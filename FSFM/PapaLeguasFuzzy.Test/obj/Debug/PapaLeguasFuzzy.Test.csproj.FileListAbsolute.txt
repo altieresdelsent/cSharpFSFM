@@ -1,0 +1,9 @@
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\PapaLeguasFuzzy.Test.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\PapaLeguasFuzzy.Test.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\PapaLeguasFuzzy.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\LinearAlgebra.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\PapaLeguasFuzzy.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\bin\Debug\LinearAlgebra.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\obj\Debug\PapaLeguasFuzzy.Test.csprojResolveAssemblyReference.cache
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\obj\Debug\PapaLeguasFuzzy.Test.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy.Test\obj\Debug\PapaLeguasFuzzy.Test.pdb

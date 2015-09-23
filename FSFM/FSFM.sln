@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFM", "FSFM\FSFM.csproj", "{AF8B9285-9481-46C0-A655-5A9AAD3D944E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSFM.Tests", "FSFM.Tests\FSFM.Tests.csproj", "{8B172876-9E74-4175-AAD5-B37F41F8A9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaLeguasFuzzy", "PapaLeguasFuzzy\PapaLeguasFuzzy.csproj", "{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebra", "LinearAlgebra\LinearAlgebra.csproj", "{DC08C6DE-954F-49CD-B643-E4B68F4C1916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebra.Test", "LinearAlgebra.Test\LinearAlgebra.Test.csproj", "{DFA8084C-150D-43E1-97CA-7C7342918968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaLeguasFuzzy.Test", "PapaLeguasFuzzy.Test\PapaLeguasFuzzy.Test.csproj", "{80071E7F-5A22-4052-B3CD-9E412A92D75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8B9285-9481-46C0-A655-5A9AAD3D944E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8B9285-9481-46C0-A655-5A9AAD3D944E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8B9285-9481-46C0-A655-5A9AAD3D944E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8B9285-9481-46C0-A655-5A9AAD3D944E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B172876-9E74-4175-AAD5-B37F41F8A9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B172876-9E74-4175-AAD5-B37F41F8A9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B172876-9E74-4175-AAD5-B37F41F8A9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B172876-9E74-4175-AAD5-B37F41F8A9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79FBCC8-8B95-4879-BBCA-93C3A07260EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC08C6DE-954F-49CD-B643-E4B68F4C1916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC08C6DE-954F-49CD-B643-E4B68F4C1916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC08C6DE-954F-49CD-B643-E4B68F4C1916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC08C6DE-954F-49CD-B643-E4B68F4C1916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA8084C-150D-43E1-97CA-7C7342918968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA8084C-150D-43E1-97CA-7C7342918968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA8084C-150D-43E1-97CA-7C7342918968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA8084C-150D-43E1-97CA-7C7342918968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80071E7F-5A22-4052-B3CD-9E412A92D75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80071E7F-5A22-4052-B3CD-9E412A92D75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80071E7F-5A22-4052-B3CD-9E412A92D75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80071E7F-5A22-4052-B3CD-9E412A92D75E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

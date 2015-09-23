@@ -1,0 +1,7 @@
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\bin\Debug\LinearAlgebra.Test.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\bin\Debug\LinearAlgebra.Test.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\bin\Debug\LinearAlgebra.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\bin\Debug\LinearAlgebra.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\obj\Debug\LinearAlgebra.Test.csprojResolveAssemblyReference.cache
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\obj\Debug\LinearAlgebra.Test.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra.Test\obj\Debug\LinearAlgebra.Test.pdb

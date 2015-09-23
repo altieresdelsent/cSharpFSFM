@@ -1,0 +1,4 @@
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra\bin\Debug\LinearAlgebra.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra\obj\Debug\LinearAlgebra.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\LinearAlgebra\obj\Debug\LinearAlgebra.pdb

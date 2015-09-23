@@ -1,0 +1,7 @@
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\bin\Debug\PapaLeguasFuzzy.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\bin\Debug\PapaLeguasFuzzy.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\bin\Debug\LinearAlgebra.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\bin\Debug\LinearAlgebra.pdb
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\obj\Debug\PapaLeguasFuzzy.csprojResolveAssemblyReference.cache
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\obj\Debug\PapaLeguasFuzzy.dll
+D:\Users\altieres2\Copy\Mestrado\Dissertacao\csharpMaterial\FSFM\PapaLeguasFuzzy\obj\Debug\PapaLeguasFuzzy.pdb
